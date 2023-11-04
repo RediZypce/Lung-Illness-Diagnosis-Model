@@ -4,7 +4,7 @@ This Jupyter notebook focuses on developing a deep learning model for diagnosing
 
 # Dataset
 The dataset used in this project is the [Covid-19 Image Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset) which has been sourced from Kaggle. The dataset contains grayscale X-ray images, already split into training and testing sets. It is a multi-class classification problem, as it involves three different classes: Covid, Normal, and Pneumonia.
-You can either download the dataset from the link provided on Kaggle or access it [here].
+
 [Link to Jupyter notebook](Lung-Illness-Diagnosis-With-X-ray-(CNN).ipynb)
 # Requirements
 To run this project, you'll need the following libraries and tools:
@@ -43,3 +43,7 @@ The project is organized into various sections within the Jupyter notebook:
 * Open the Jupyter notebook provided in this project.
 * Execute each cell sequentially by running the notebook.
 * You can customize and experiment with the model architecture, hyperparameters, and dataset as needed.
+
+# Contact 
+
+Feel free to contact me on [X](https://twitter.com/RediZypce)
